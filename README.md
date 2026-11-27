@@ -59,4 +59,4 @@ The-Guessing-Game/
 **Exequiel Echevarria**
 - GitHub: [@ExeDevCentral](https://github.com/ExeDevCentral)
 
-_Última revisión: 2026-11-26 19:58_
+_Última revisión: 2026-11-27 19:41_
